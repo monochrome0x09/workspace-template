@@ -2,6 +2,8 @@
 
 현재 작업에 해당하는 항목만 적용합니다.
 
+이 파일은 점검 기준입니다. 체크박스를 직접 체크하거나 수정하지 말고, 점검 결과는 응답에서 보고합니다. (Project-Specific Checks 섹션은 프로젝트에 맞게 편집할 수 있습니다.)
+
 ## Task Requirements
 
 - [ ] 사용자의 현재 요청을 충족했습니다.
@@ -59,6 +61,12 @@
 - [ ] `STATE.md`의 `Completed`, `In Progress`, `Next`, `Blockers`가 실제 상태와 일치합니다.
 - [ ] 완료되지 않은 작업을 `Completed`에 기록하지 않았습니다.
 - [ ] 프로젝트 상태에 영향을 주지 않는 사소한 변경만 있었다면 불필요하게 `STATE.md`를 수정하지 않았습니다.
+
+## Persistence
+
+- [ ] 변경분(`STATE.md`, `outputs/`, `docs/` 포함)을 커밋하고 푸시했습니다.
+- [ ] 푸시에 실패했다면 `STATE.md`의 Blockers에 기록하고 사용자에게 알렸습니다.
+- [ ] 커밋에 임시 파일이나 비밀 값이 포함되지 않았습니다.
 
 ## Output Review
 

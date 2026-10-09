@@ -69,6 +69,7 @@
 ### Git Conventions
 
 - 브랜치 규칙: [TBD]
+- 푸시 방식(직접 푸시 / PR): [TBD]
 - 커밋 메시지 규칙: [TBD]
 - git 저장소 초기화 여부: [TBD]
     
