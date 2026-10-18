@@ -16,6 +16,7 @@
         "hooks": [
           {
             "type": "command",
+            "async": true,
             "command": "bash \"$CLAUDE_PROJECT_DIR\"/scripts/install_pkgs.sh"
           }
         ]
