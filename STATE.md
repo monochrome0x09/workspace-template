@@ -1,5 +1,8 @@
 # Project State
 
+> 작업을 시작하거나 끝낼 때 Current Status, In Progress, Next를 실제 상태로 고칩니다.
+> Completed가 길어지면(약 15항목 또는 10KB 초과) 오래된 항목을 docs/로 옮기고 한 줄 요약만 남깁니다.
+
 ## Current Status
 
 [현재 프로젝트 상태를 2-5줄 이내로 요약]
