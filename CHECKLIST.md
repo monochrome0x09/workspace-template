@@ -61,6 +61,8 @@
 - [ ] `STATE.md`의 `Completed`, `In Progress`, `Next`, `Blockers`가 실제 상태와 일치합니다.
 - [ ] 완료되지 않은 작업을 `Completed`에 기록하지 않았습니다.
 - [ ] 프로젝트 상태에 영향을 주지 않는 사소한 변경만 있었다면 불필요하게 `STATE.md`를 수정하지 않았습니다.
+- [ ] 작업 시작 때 `TASK.md`를 채워 먼저 푸시했습니다.
+- [ ] 완료 후 `TASK.md`를 별도 커밋으로 초기화했습니다.
 
 ## Persistence
 

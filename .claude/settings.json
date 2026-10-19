@@ -4,6 +4,9 @@
       "source": { "source": "github", "repo": "JuliusBrussee/caveman" }
     }
   },
+  "env": {
+    "CLAUDE_CODE_AUTO_COMPACT_WINDOW": "600000"
+  },
   "advisorModel": "opus",
   "enabledPlugins": {
     "caveman@caveman": true
